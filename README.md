@@ -40,8 +40,8 @@
 <p>Here, you can find all my projects.</p>
 <!-- Lista dei miei progetti -->
 <ul>
-    <li>[Progetto 0: Portfolio](https://github.com/riccardo98b/Portfolio)</li>
-    <li>[Progetto 1: Report Tracker](https://github.com/riccardo98b/ReportTracker)</li>
+    <li><a href="https://github.com/riccardo98b/Portfolio)">[Progetto 0: Portfolio]</a></li>
+    <li><a href="https://github.com/riccardo98b/ReportTracker)">[Progetto 1: Report Tracker]</a></li>
 </ul>
 
 ---

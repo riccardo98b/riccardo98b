@@ -1,5 +1,5 @@
-👋 Hi, I’m @riccardo98b, an IT enthusiast.
-I’m currently learning HTML,CSS ,Bootstrap, Javascript , Java , Spring and MySQL.
+<p>👋 Hi, I’m @riccardo98b, an IT enthusiast.</p>
+<p></p>I’m currently learning HTML,CSS ,Bootstrap, Javascript , Java , Spring and MySQL.</p>
 
 <!--Tecnologie conosciute-->
 <p align="left">

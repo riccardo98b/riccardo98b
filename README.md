@@ -37,6 +37,7 @@
 ---
 
 ### 📂 Progetti
+<p>Here, you can find all my projects.</p>
 <!-- Lista dei miei progetti -->
 - [Progetto 0: Portfolio](https://github.com/riccardo98b/Portfolio)
 - [Progetto 1: Report Tracker](https://github.com/riccardo98b/ReportTracker)
@@ -45,6 +46,7 @@
 ---
 
 ### 📫 Contatti
+<p>You can contact me with the following links</p>
 <p align="left">
     <a href="https://www.linkedin.com/in/riccardo-belloni-750518303/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />

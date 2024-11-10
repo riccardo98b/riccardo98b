@@ -39,9 +39,10 @@
 ### 📂 Progetti
 <p>Here, you can find all my projects.</p>
 <!-- Lista dei miei progetti -->
-- [Progetto 0: Portfolio](https://github.com/riccardo98b/Portfolio)
-- [Progetto 1: Report Tracker](https://github.com/riccardo98b/ReportTracker)
-
+<ul>
+    <li>[Progetto 0: Portfolio](https://github.com/riccardo98b/Portfolio)</li>
+    <li>[Progetto 1: Report Tracker](https://github.com/riccardo98b/ReportTracker)</li>
+</ul>
 
 ---
 

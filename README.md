@@ -1,6 +1,6 @@
 ## Welcome to my Github
 <p>👋 Hi, I’m @riccardo98b, an IT enthusiast.</p>
-<p></p>I’m currently learning HTML,CSS ,Bootstrap, Javascript , Java , Spring and MySQL.</p>
+<p></p>I’m currently learning HTML,CSS ,Bootstrap, Javascript ,Typescript,Angular, Java , Spring and MySQL.</p>
 
 <!--Tecnologie conosciute-->
 <p align="left">
@@ -20,6 +20,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+  <!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<!-- Angular -->
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+</a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>

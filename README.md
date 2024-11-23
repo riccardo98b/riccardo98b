@@ -1,4 +1,4 @@
-## Benvenuti nel mio profilo Github
+## Welcome to my Github
 <p>👋 Hi, I’m @riccardo98b, an IT enthusiast.</p>
 <p></p>I’m currently learning HTML,CSS ,Bootstrap, Javascript , Java , Spring and MySQL.</p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📂 Progetti
+### 📂 Projects
 <p>Here, you can find all my projects.</p>
 <!-- Lista dei miei progetti -->
 <ul>
@@ -46,7 +46,7 @@
 
 ---
 
-### 📫 Contatti
+### 📫 Contacts
 <p>You can contact me with the following links</p>
 <p align="left">
     <a href="https://www.linkedin.com/in/riccardo-belloni-750518303/" target="blank">
